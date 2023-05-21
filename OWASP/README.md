@@ -13,7 +13,11 @@ Berikut beberapa tugas Video Demo dari OWASP
 | ------ | ------ |
 | Broken Access Control | [Video Broken Access Control][A01] |
 | Cryptographic Failures | [Video Cryptographic Failures][A02] |
+| Injection | [Video Injection][A03] |
+| Insecure Design | [Video Insecure Design][A04] |
 
    [A01]: <https://drive.google.com/file/d/1h4WkUVQyQrERPw1U2mRja8AW8ORE765-/view?usp=sharing>
    [A02]: <https://drive.google.com/file/d/1jCjITtrHNVjEqTa3ARFg8pbmY8mE-WDP/view?usp=sharing>
+   [A03]: <>
+   [A04]: <>
   
